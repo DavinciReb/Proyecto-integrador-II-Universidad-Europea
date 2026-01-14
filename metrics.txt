@@ -1,0 +1,12 @@
+METRICS vs /base_pose_ground_truth
+Trajectory used: /odometry/filtered sampled at /scan timestamps
+
+Samples used: 10003
+
+RAW (no alignment):
+  ATE RMSE (m):     0.021519
+  Yaw RMSE (deg):   0.267379
+
+ALIGNED by first comparable pose:
+  ATE RMSE (m):     0.021573
+  Yaw RMSE (deg):   0.267354
